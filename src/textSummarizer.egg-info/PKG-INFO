@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 1.0.0
+Summary: Python package for text summarization
+Home-page: https://github.com/AdiK1806/Text-Summarizer
+Author: AdiK1806
+Author-email: adityakuthiala1806@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/AdiK1806/Text-Summarizer/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# Text-Summarizer
+This Text Summarizer shortens long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in a document.
+
+
